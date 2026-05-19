@@ -16,14 +16,14 @@ I put together the schematic for the progress. I set up the timer so that it sho
 
 ### Time Spent: 0.4 Hours
 
-## 5/18/2026 - Footprints And ERC
+## 5/19/2026 - Footprints And ERC
 
 I assigned all the footprints for the parts. Luckily since I used easyeda2kicad I didn't have to deal with trying to figure out the correct footprint for a cd4060. When I went back to check the ERC I discovered I was having issues with the pin connections and how for some reason that I was having errors. It took me some time to figure it out but the issue ended up being that all of the pins weren't assigned an electrical type so I had to assign them myself.  
 ![](attachments/Image4.png)
 
 ### Time Spent: 0.4 Hours
 
-## 5/18/2026 - Footprints And ERC
+## 5/19/2026 - Footprints And ERC
 
 I routed all of the parts together. I didn't really have any issues and surprisingly managed to only use the front side for the connections without needing to use vias. Most of the time was spent trying to get it organized right so it had consumed quite the amount of time for me.  
 
